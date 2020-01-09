@@ -1,3 +1,3 @@
-# Novice developer from 🌴ahiti
+# Novice Developer from 🌴ahiti
 
-A simple website to present myself: [alftah.gitlab.io](https://alftah.gitlab.io)
+A simple website to present myself: [alftah.github.io](https://alftah.github.io)
